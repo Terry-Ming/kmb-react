@@ -2,7 +2,7 @@
   "name": "kmb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Terry-Ming.github.io/kmb-react",
+  "homepage": "https://terry-ming.github.io/kmb-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
